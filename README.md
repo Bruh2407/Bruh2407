@@ -1,8 +1,9 @@
-### olá 👋 meu nome é Bruna Zamboto
+### olá 👋 Boas vindas ao meu perfil 💙💙
+meu nome é Bruna Zamboto
 
-Estou estudando na Alura e
-Estou me desenvolvendo na linguagem JavaScript,
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+-Estou estudando na Alura 
+-Estou me desenvolvendo na linguagem JavaScript,
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 Você pode entrar em contato comigo 📫
 
 email: 00001105189867sp@al.educacao.sp.gov.br
