@@ -1,4 +1,12 @@
-### Hi there 👋
+### olá 👋 meu nome é Bruna Zamboto
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+Você pode entrar em contato comigo 📫
+
+email: 00001105189867sp@al.educacao.sp.gov.br
+![e947daf99c6c52f09145183315e721c2](https://github.com/Bruh2407/Bruh2407/assets/169904404/8898cca6-b642-44ac-bb65-590e1913d28e)
 
 <!--
 **Bruh2407/Bruh2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
